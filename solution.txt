@@ -1,2 +1,14 @@
-Please add your pseudocode to this file
+Solution Description:
+This solution generates all consecutive substrings of a string by using two nested loops.
+The outer loop selects the starting index, while the inner loop selects the ending index.
+Each substring is extracted using the substring method and added to the result array.
+
+Algorithm Type:
+Brute Force Approach using Nested Loops.
+
+Time Complexity:
+O(n^2)
+
+Explanation:
+As the length of the string increases, the number of substrings grows quadratically.Please add your pseudocode to this file
 And a written explanation of your solution
